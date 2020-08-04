@@ -1,0 +1,125 @@
+::selection {
+  background: rgba(255, 66, 116, 0.3);
+}
+
+::-moz-selection {
+  background: rgba(255, 66, 116, 0.3);
+}
+
+.pill-button {
+  color: #ff4274;
+}
+
+.pill-button:hover, .pill-button.active {
+  color: #ff4274;
+}
+
+.overlay-menu a:hover {
+  color: #ff4274 !important;
+}
+
+.overlay-menu a.active {
+  color: #ff4274 !important;
+}
+
+.bg-base-color {
+  background-color: #ff4274 !important;
+}
+
+.base-color {
+  color: #ff4274 !important;
+}
+
+.follow-label::before {
+  background-color: #ff4274;
+}
+
+.social a:hover {
+  color: #ff4274 !important;
+}
+
+.social-icon a:hover {
+  color: #ff4274;
+}
+
+#pp-nav li:hover span {
+  background-color: #ff4274 !important;
+}
+
+#pp-nav li .active span {
+  background-color: #ff4274 !important;
+}
+
+.border-style {
+  background-color: #ff4274;
+}
+
+.timeline-icon {
+  border: 1px solid #ff4274;
+  background-color: #ff4274;
+}
+
+.timeline-year {
+  color: #ff4274;
+}
+
+.timeline-item:before {
+  border: 1px solid #ff4274;
+}
+
+.skill-box .fill-skillbar {
+  background-color: #ff4274;
+}
+
+.portfolio .portfolio-filter li a {
+  color: #ff4274;
+}
+
+.testimonial .owl-dot.active span {
+  background-color: #ff4274;
+}
+
+.blog-link a:hover {
+  color: #f43568 !important;
+}
+
+.portfolio .portfolio-item-content:before {
+  background-color: rgba(255, 66, 116, 0.9);
+}
+
+.portfolio .portfolio-icon button i, .portfolio .portfolio-icon a i {
+  color: #ff4274;
+}
+
+.testimonial .owl-carousel .owl-dot.active span {
+  background-color: #ff4274;
+}
+
+.contact .form-item .form-control {
+  color: #ff4274;
+}
+
+.loader {
+  border-top: 4px solid #ff4274 !important;
+}
+
+.flat-demo .button-border, .arshia-dark.flat-demo .button-border {
+  background-color: #ff4274;
+}
+
+.flat-demo .pill-button:hover, .flat-demo .pill-button.active {
+  background-color: #f43568;
+}
+
+.arshia-dark .social-icon a:hover, .arshia-dark .social a:hover {
+  color: #ff4274 !important;
+}
+
+.arshia-dark #pp-nav li .active span {
+  background-color: #ff4274 !important;
+}
+
+.arshia-dark #pp-nav li:hover span {
+  background-color: #ff4274 !important;
+}
+/*# sourceMappingURL=pink-color.css.map */

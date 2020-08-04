@@ -1,0 +1,125 @@
+::selection {
+  background: rgba(240, 203, 52, 0.3);
+}
+
+::-moz-selection {
+  background: rgba(240, 203, 52, 0.3);
+}
+
+.pill-button {
+  color: #f0cb34;
+}
+
+.pill-button:hover, .pill-button.active {
+  color: #f0cb34;
+}
+
+.overlay-menu a:hover {
+  color: #f0cb34 !important;
+}
+
+.overlay-menu a.active {
+  color: #f0cb34 !important;
+}
+
+.bg-base-color {
+  background-color: #f0cb34 !important;
+}
+
+.base-color {
+  color: #f0cb34 !important;
+}
+
+.follow-label::before {
+  background-color: #f0cb34;
+}
+
+.social a:hover {
+  color: #f0cb34 !important;
+}
+
+.social-icon a:hover {
+  color: #f0cb34;
+}
+
+#pp-nav li:hover span {
+  background-color: #f0cb34 !important;
+}
+
+#pp-nav li .active span {
+  background-color: #f0cb34 !important;
+}
+
+.border-style {
+  background-color: #f0cb34;
+}
+
+.timeline-icon {
+  border: 1px solid #f0cb34;
+  background-color: #f0cb34;
+}
+
+.timeline-year {
+  color: #f0cb34;
+}
+
+.timeline-item:before {
+  border: 1px solid #f0cb34;
+}
+
+.skill-box .fill-skillbar {
+  background-color: #f0cb34;
+}
+
+.portfolio .portfolio-filter li a {
+  color: #f0cb34;
+}
+
+.testimonial .owl-dot.active span {
+  background-color: #f0cb34;
+}
+
+.blog-link a:hover {
+  color: #eeca37 !important;
+}
+
+.portfolio .portfolio-item-content:before {
+  background-color: rgba(240, 203, 52, 0.9);
+}
+
+.portfolio .portfolio-icon button i, .portfolio .portfolio-icon a i {
+  color: #f0cb34;
+}
+
+.testimonial .owl-carousel .owl-dot.active span {
+  background-color: #f0cb34;
+}
+
+.contact .form-item .form-control {
+  color: #f0cb34;
+}
+
+.loader {
+  border-top: 4px solid #f0cb34 !important;
+}
+
+.flat-demo .button-border, .arshia-dark.flat-demo .button-border {
+  background-color: #f0cb34;
+}
+
+.flat-demo .pill-button:hover, .flat-demo .pill-button.active {
+  background-color: #eeca37;
+}
+
+.arshia-dark .social-icon a:hover, .arshia-dark .social a:hover {
+  color: #f0cb34 !important;
+}
+
+.arshia-dark #pp-nav li .active span {
+  background-color: #f0cb34 !important;
+}
+
+.arshia-dark #pp-nav li:hover span {
+  background-color: #f0cb34 !important;
+}
+/*# sourceMappingURL=yellow-color.css.map */
