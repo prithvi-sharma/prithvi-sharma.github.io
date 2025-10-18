@@ -1,11 +1,3 @@
-/*-----------------------------------------------------------
-* Template Name    : arshia | Bootstrap 4 personal, portfolio and resume
-* Author           : Retrinagroup
-* Version          : 1.0.0
-* Created          : March 2020
-* File Description : Main js file of the template
-*------------------------------------------------------------
-*/
 
 // repeated variables
 var $window = $(window);
