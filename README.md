@@ -1,5 +1,5 @@
 # Prithvi Sharma — Portfolio Website 
-[![License](https://img.shields.io/badge/License-Copyright%20©%202020%E2%80%932025-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Copyright%20©%202020%E2%80%9326-blue.svg)](LICENSE)
 
 This repository contains the source for my personal portfolio website, hosted at https://www.PrithviSharma.com
 
@@ -17,4 +17,4 @@ This repository contains the source for my personal portfolio website, hosted at
 ## Contact
 Mail: mail@prithvisharma.com
 
-Copyright © Prithvi Sharma 2020-2025
+Copyright © Prithvi Sharma 2020-2026
